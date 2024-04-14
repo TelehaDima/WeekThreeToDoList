@@ -60,7 +60,7 @@ This application was created for convenient time display
 1. Get a free API Key at [https://dazzling-wisp-657936.netlify.app](https://dazzling-wisp-657936.netlify.app)
 2. Clone the repo
    ```sh
-   git clone https://github.com/TelehaDima/timer-homework
+   git clone github.com/TelehaDima/WeekThreeToDoList.
    ```
 3. Install NPM packages
    ```sh
@@ -99,7 +99,7 @@ No license is required for this product
 
 E-mail - telehadmytro@gmail.com
 
-Project Link: [https://github.com/TelehaDima/timer-homework](https://github.com/TelehaDima/timer-homework)
+Project Link: [github.com/TelehaDima/WeekThreeToDoList](github.com/TelehaDima/WeekThreeToDoList)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
