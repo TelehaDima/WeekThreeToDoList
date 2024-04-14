@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This application was created for convenient time display
+The application is designed to display the required shopping list
 
 ### Built With
 
