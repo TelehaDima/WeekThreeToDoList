@@ -1,4 +1,4 @@
-<h3 align="center">ToDoList</h3>
+<h3 align="center">To Do List</h3>
 
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template">
@@ -11,7 +11,7 @@
     ·
     <a href="https://github.com/TelehaDima/WeekThreeToDoList/blob/main/Report-Bug">Report Bug</a>
     ·
-    <a href="https://github.com/TelehaDima/timer-homework/blob/10e6da700863aa40cbf2a5df0289fb6bf5070731/Request%20Feature.md">Request Feature</a>
+    <a href="https://github.com/TelehaDima/WeekThreeToDoList/blob/main/Request%20Feature">Request Feature</a>
   </p>
 </div>
 
