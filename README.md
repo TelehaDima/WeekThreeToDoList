@@ -1,4 +1,4 @@
-<h3 align="center">Timer</h3>
+<h3 align="center">ToDoList</h3>
 
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template">
@@ -7,7 +7,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/TelehaDima/timer-homework">View Demo</a>
+    <a href="https://github.com/TelehaDima/WeekThreeToDoList">View Demo</a>
     ·
     <a href="https://github.com/TelehaDima/timer-homework/blob/fae11368429012a858e90cfdc450b2a9a6c724f5/Bug-report.md">Report Bug</a>
     ·
@@ -57,10 +57,10 @@ This application was created for convenient time display
 
 ### Installation
 
-1. Get a free API Key at [https://dazzling-wisp-657936.netlify.app](https://dazzling-wisp-657936.netlify.app)
+1. Get a free API Key at [https://telehatodolist.netlify.app](https://telehatodolist.netlify.app)
 2. Clone the repo
    ```sh
-   git clone github.com/TelehaDima/WeekThreeToDoList.
+   git clone github.com/TelehaDima/WeekThreeToDoList
    ```
 3. Install NPM packages
    ```sh
@@ -74,7 +74,7 @@ This application was created for convenient time display
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://dazzling-wisp-657936.netlify.app)_
+_For more examples, please refer to the [Documentation](https://telehatodolist.netlify.app)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
