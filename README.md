@@ -74,7 +74,7 @@ The application is designed to display the required shopping list
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://telehatodolist.netlify.app)_
+_For more examples, please refer to the [https://telehatodolist.netlify.app](https://telehatodolist.netlify.app)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
