@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/TelehaDima/timer-homework/blob/d565510e0d4742a2f8deae2c0ac3e34b0b651280/Screen-Git.jpg" alt="Logo" width="120" height="120">
+    <img src="https://github.com/TelehaDima/WeekThreeToDoList/blob/main/Todolist.png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">
