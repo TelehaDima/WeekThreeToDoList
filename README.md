@@ -84,9 +84,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/timer-homework`)
-3. Commit your Changes (`git commit -m 'Add some timer-homework'`)
-4. Push to the Branch (`git push origin feature/timer-homework`)
+2. Create your Feature Branch (`git checkout -b feature/WeekThreeToDoList`)
+3. Commit your Changes (`git commit -m 'Add some WeekThreeToDoList'`)
+4. Push to the Branch (`git push origin feature/WeekThreeToDoList`)
 5. Open a Pull Request
 
 <!-- LICENSE -->
